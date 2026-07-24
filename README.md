@@ -1,4 +1,4 @@
-# 1--containerize-a-node.js-web-application
+# 1-containerize-a-node.js-web-application
 1- containerize a node.js web application
 
 # 🐳 Task 1: Containerize a Node.js Web Application
